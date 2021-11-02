@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="2Huski.png" />
+    <None Remove="Ace.png" />
+    <None Remove="Apollo.png" />
+    <None Remove="Athena.png" />
+    <None Remove="Infinity.png" />
+    <None Remove="Max.png" />
+    <None Remove="Mia.png" />
+    <None Remove="Ra.png" />
+    <None Remove="Sky.png" />
+    <None Remove="turbo.png" />
+    <None Remove="Winter.png" />
+    <None Remove="Zeus.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DogPics\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="2Huski.png" />
+    <Resource Include="Ace.png" />
+    <Resource Include="Apollo.png" />
+    <Resource Include="Athena.png" />
+    <Resource Include="Infinity.png" />
+    <Resource Include="Max.png" />
+    <Resource Include="Mia.png" />
+    <Resource Include="Ra.png" />
+    <Resource Include="Sky.png" />
+    <Resource Include="turbo.png" />
+    <Resource Include="Winter.png" />
+    <Resource Include="Zeus.png" />
+  </ItemGroup>
+
+</Project>

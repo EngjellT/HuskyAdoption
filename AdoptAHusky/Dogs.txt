@@ -1,0 +1,11 @@
+﻿Turbo, 05-03-2020,siberian husky, 42 pounds, yes, 1, Male,1 month
+Mia,08-23-2021,siberian husky, 18 pounds, yes, Female,2 weeks
+Winter,09-19-2021, siberian husky, 19 pounds, yes, female, 1 weeks
+Sky, 10-03-2021, siberian husky, 19 pounds, yes, female , 2 weeks
+Max, 06-26-2020, siberian husky, 56 pounds, yes, male, 1 month
+Apollo, 04-13-2020, siberian husky, 59  pounds, yes, Male, 2 months
+Athena, 07-22-2021, siberian husky, 26 pounds, yes, female, 1 month
+Zeus, 04-20-2019, siberian husky, 59 pounds, yes, male, 3 months
+Infinity, 10-02-2021, siberian husky, 28 pounds, yes, male, 1 month
+Ra, 06-02-2020, siberian husky, 55 pounds, yes, male, 3 months
+Ace,01-11-2019, siberian husky, 59 pounds , yes, male, 6 months
